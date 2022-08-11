@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+{% include head.html %}
+
+<body class="bg-dark text-light">
+    {% include navbar.html %}
+    <div class="container-fluid bg-secondary pt-5 pb-5 text-center">
+        <h1 class="display-1 font-brand">FAQ</h1>
+        <p class="lead font-main">Some frequently asked questions about {{ site.title }}</p>
+    </div>
+    <div class="container pt-3 pb-3">
+        <h1 id="why-are-some-values-unknown" class="font-main">Why are some values "Unknown"?</h1>
+        <p>
+        Before the website existed, only the first three places were documented with the names and
+        times of the runs for Jet Graffiti and Race Mode. "Unknown" is a value for when screenshots
+        could not be validated/found and the owner could not be found/contacted.
+        </p>
+    </div>
+    {% include footer.html %}
+</body>
+
+</html>
