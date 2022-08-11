@@ -1,0 +1,68 @@
+.font-main      { font-family: 'Jet Set Radio' !important; }
+.font-brand     { font-family: 'Jet Set Future' !important; }
+.font-italic    { font-family: 'Jet Set Italic' !important; }
+
+/* Character Icons */
+.char-icon {
+    border: 1px solid #0d6efd;
+    display: inline-block;
+    background-size: 1em 1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1.33em !important;
+    width: 1.33em !important;
+    margin: 0 0.0665em 0 0.133em !important;
+    vertical-align: -0.133em !important;
+    background-size: auto 1.33em !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-unknown { background-image: url(../img/37a6259cc0c1dae299a7866489dff0bd.png); }
+.icon-akumu { background-image: url(../img/7816e530828426568ff442108377a849.png); }
+.icon-assassin { background-image: url(../img/adafff23fe27d62fa9d5220cc0b3a8ea.png); }
+.icon-awyeah { background-image: url(../img/d794accf42a3d472230e2482096b1dc1.png); }
+.icon-beat { background-image: url(../img/ed6966981beb595bd0a50e4371805dec.png); }
+.icon-bikehelmet { background-image: url(../img/5d998e59c0fa91021877f2ba9ca77087.png); }
+.icon-boogie { background-image: url(../img/d144be29e286ec30b7fbb56535cfe132.png); }
+.icon-boombot { background-image: url(../img/2d05e6eec3d1938e2cd8bac4ca82b93c.png); }
+.icon-clutch { background-image: url(../img/22275a7b7a6e33ba39761b0f2a1bb5db.png); }
+.icon-coin { background-image: url(../img/96a9519b8fddd17e8cc4bba0408ffffd.png); }
+.icon-combo { background-image: url(../img/c69c522d7937f66ff7becd10515a95f7.png);}
+.icon-coolhat { background-color: url(../img/0f5ccf220a53c9d2d264b39a7e52d673.png); }
+.icon-corn { background-image: url(../img/c548ea990e910339a122aa466ee7f971.png); }
+.icon-cube { background-image: url(../img/18a64f7251cfb123aa7c358135d00d10.png); }
+.icon-dancer { background-image: url(../img/b53ac339f8cd57cc59dd8b4f53e5b44d.png); }
+.icon-dreambot { background-image: url(../img/aa0e9281721700656c42cc9a259f3dcf.png); }
+.icon-doomrider { background-image: url(../img/eb3c6be06808cccf0b473826af0d6618.png); }
+.icon-garam { background-image: url(../img/5652003429ac46748f2a4eb242986dab.png); }
+.icon-goldenrhino { background-image: url(../img/080979191e2063db374449c9f6b75efb.png); }
+.icon-groovy { background-image: url(../img/5f202e7ab75f00af194c61cc07ae6b0c.png); }
+.icon-gouji { background-image: url(../img/f4c973692362f58e1b7bab2795db1b31.png); }
+.icon-gum { background-image: url(../img/79a7b1f0b4044985f75e8a83533608f2.png); }
+.icon-hayashi { background-image: url(../img/5a1c6b081c32a9eb3c94eb103a1dbe34.png); }
+.icon-immortal { background-image: url(../img/75abd022a606c3ab4cced2e31d1b2b25.png); }
+.icon-jacket { background-image: url(../img/f4ebf8a096b6deffc44d73b12989ef91.png); }
+.icon-jazz { background-image: url(../img/2b21d9d8f81c6e564c84ef0bfa94aa5c.png); }
+.icon-kigurumi { background-image: url(../img/26516dd8906c662442719eeee52ba6b2.png); }
+.icon-loveshocker { background-image: url(../img/ee666daac46f1bb5b854b178e910c368.png); }
+.icon-noisetank { background-image: url(../img/e9228a335a11d6088296483ee3c51622.png); }
+.icon-nt3k { background-image: url(../img/8e8255c154e4a807e080b9cc51ee11c2.png); }
+.icon-nt3kp { background-image: url(../img/9106817e8a8547b9ba98002dd44b9aa1.png); }
+.icon-oldman { background-image: url(../img/07892e0b6b565c892ded8da790130a27.png); }
+.icon-orangesuit { background-image: url(../img/9ad7974af0608c4acb06e4b7d9962532.png); }
+.icon-poisonjam { background-image: url(../img/2feb20f67ed94c249b6085b3fdf7a064.png); }
+.icon-police { background-image: url(../img/814989b983fd853fb374e1676a06ade4.png); }
+.icon-pots { background-image: url(../img/c37309e1b9e42ef4504faf3977f8bc1f.png); }
+.icon-pyro { background-image: url(../img/3f26135581c551d622fc1a727c17681f.png); }
+.icon-rapid99 { background-image: url(../img/785d51aa3c26fe630eda2e12e96f81fe.png); }
+.icon-rc1k { background-image: url(../img/96893e0e4b6230b0d57f4a29d7de07c8.png); }
+.icon-rhyth { background-image: url(../img/0cbf0a9148668604b6dff31d71549745.png); }
+.icon-riot { background-image: url(../img/2f53086555b7fbb940ce78616ff212e5.png); }
+.icon-roboy { background-image: url(../img/ccaac78d60fe62302b0ae376449a35e2.png); }
+.icon-soda { background-image: url(../img/ac95c3e7a5e1685f4f63172cd680f7e6.png); }
+.icon-waytogo { background-image: url(../img/f433b11a75b568896a5ba72e169bbaad.png); }
+.icon-yahoo { background-image: url(../img/241fe8af1e038118cd817048a65f803e.png); }
+.icon-yeehaw { background-image: url(../img/5a5d4fbb0e9a38b259900d2ae0f4aae8.png); }
+.icon-yeehaw3k { background-image: url(../img/9bae4c2a29bc0fbb7086cfa914afdd8f.png); }
+.icon-yoyo { background-image: url(../img/48dc8d29308eb256edc76f25def07251.png); }
+.icon-zerobeat { background-image: url(../img/9a3e303726ab40ca6123c430130fbbbd.png); }
