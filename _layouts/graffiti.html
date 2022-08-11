@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+{% include head.html %}
+
+<body class="bg-dark text-light">
+    {% include navbar.html %}
+    <div class="container-fluid bg-secondary pt-5 pb-5 text-center">
+        <h1 class="display-1 font-brand">{{ page.title }}</h1>
+        <p class="lead font-main">{{ page.description }}</p>
+    </div>
+    <div class="container pt-5 pb-5">
+        {% include record-time-table.html id="shibuya" name="Shibuya Terminal" %}
+        {% include record-time-table.html id="99th" name="99th Street" %}
+        {% include record-time-table.html id="highway" name="Highway Zero" %}
+        {% include record-time-table.html id="chuo" name="Chuo Street" %}
+        {% include record-time-table.html id="dogenzaka" name="Dogenzaka Hill" %}
+        {% include record-time-table.html id="frz" name="Fortified Residential Zone" %}
+        {% include record-time-table.html id="rdh" name="Rokkaku Dai Heights" %}
+        {% include record-time-table.html id="shinjuku" name="Shinjuku Station" %}
+        {% include record-time-table.html id="bantam" name="Bantam Street" %}
+        {% include record-time-table.html id="kibogaoka" name="Kibogaoka Hill" %}
+        {% include record-time-table.html id="hikage" name="Hikage Street" %}
+    </div>
+    {% include footer.html %}
+    <script src="/assets/js/dropdowns.js"></script>
+    <script src="/assets/js/graffiti.js"></script>
+</body>
+
+</html>

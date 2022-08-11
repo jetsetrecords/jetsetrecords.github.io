@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+{% include head.html %}
+
+<body class="bg-dark text-light">
+    {% include navbar.html %}
+    <div class="container-fluid bg-secondary pt-5 pb-5 text-center">
+        <h1 class="display-1 font-brand">{{ page.title }}</h1>
+        <p class="lead font-main">{{ page.description }}</p>
+    </div>
+    <div class="container pt-5 pb-5">
+        {% include record-time-table.html id="second" name="Secondary Stadium of Rokkaku Expo" %}
+        {% include record-time-table.html id="stadium" name="Rokkaku Expo Stadium" %}
+        {% include record-time-table.html id="highway" name="Highway Zero" %}
+        {% include record-time-table.html id="chuo" name="Chuo Street" %}
+        {% include record-time-table.html id="dogenzaka" name="Dogenzaka Hill" %}
+        {% include record-time-table.html id="kibogaoka" name="Kibogaoka Hill" %}
+    </div>
+    {% include footer.html %}
+    <script src="/assets/js/dropdowns.js"></script>
+    <script src="/assets/js/races.js"></script>
+</body>
+
+</html>
