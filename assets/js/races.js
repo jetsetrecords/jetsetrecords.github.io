@@ -20,7 +20,13 @@ currentRecords[`second`] = [
         name: `Sharkbite`,
         time: `03:31:156`,
         date: `April 21, 2021`
-    }
+    },
+    {
+        char: { id: `boombot`, name: `Boom Bot` },
+        name: `JimmyJ`,
+        time: `03:33:546`,
+        date: `August 26, 2021`
+    },
 ];
 currentRecords[`stadium`] = [
     {
@@ -86,6 +92,12 @@ currentRecords[`chuo`] = [
         name: `Buggy`,
         time: `03:57:478`,
         date: `May 15, 2022`
+    },
+    {
+        char: { id: `jazz`, name: `Jazz` },
+        name: `Sharkbite`,
+        time: `03:57:864`,
+        date: `March 15, 2021`
     }
 ];
 currentRecords[`dogenzaka`] = [
