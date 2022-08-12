@@ -44,7 +44,7 @@ currentRecords['99th'] = [
 ];
 currentRecords['highway'] = [
     {
-        char: { id: 'unknown', name: 'Unknown' },
+        char: { id: 'jacket', name: 'Jacket' },
         name: 'Latelaturi',
         time: '00:59:914',
         date: 'July 12, 2022'

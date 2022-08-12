@@ -1,6 +1,34 @@
-.font-main      { font-family: 'Jet Set Radio' !important; }
-.font-brand     { font-family: 'Jet Set Future' !important; }
-.font-italic    { font-family: 'Jet Set Italic' !important; }
+/* Website Fonts */
+.font-main              { font-family: 'Jet Set Radio' !important; }
+.font-brand             { font-family: 'Jet Set Future' !important; }
+.font-italic            { font-family: 'Jet Set Italic' !important; }
+
+/* Background Colors */
+.bg-dark                { background-color: #0b4047 !important; }
+.bg-black               { background-color: #000000 !important; }
+.bg-light               { background-color: #08c1da !important; }
+.bg-white               { background-color: #ffffff !important; }
+
+/* Text Colors */
+.text-dark              { color: #0b4047 !important; }
+.text-black             { color: #000000 !important; }
+.text-light             { color: #08c1da !important; }
+.text-white             { color: #ffffff !important; }
+
+/* Table Color Correction */
+.table-dark,.td.th      { background-color: #0b4047 !important; }
+
+/* Link Color Correction */
+a, a:visited            { color: #08c1da !important; text-decoration: none !important; }
+a:hover                 { color: #e78734 !important; text-decoration: none !important; }
+
+/* Setting a Banner Background */
+.jumbotron              { background-image: url(../img/jumotron.png); background-size: cover; }
+
+/* Special JSRFMP Like Buttons */
+.btn, .btn:hover        { border-top: 1px solid #08c1da; border-bottom: 1px solid #08c1da; border-left: none; border-right: none; border-radius: 0%; }  
+.btn-special            { background: linear-gradient(to left, #0b4047, #08c1da, #0b4047); color: #ffffff; }
+.btn-special:hover      { background: linear-gradient(to left, #0b4047, #e78734, #0b4047); color: #ffffff; }
 
 /* Character Icons */
 .char-icon {
