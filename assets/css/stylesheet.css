@@ -28,7 +28,9 @@ a:hover                 { color: #e78734 !important; text-decoration: none !impo
 /* Special JSRFMP Like Buttons */
 .btn, .btn:hover        { border-top: 1px solid #08c1da; border-bottom: 1px solid #08c1da; border-left: none; border-right: none; border-radius: 0%; }  
 .btn-special            { background: linear-gradient(to left, #0b4047, #08c1da, #0b4047); color: #ffffff; }
-.btn-special:hover      { background: linear-gradient(to left, #0b4047, #e78734, #0b4047); color: #ffffff; }
+.btn-special:hover      { background: linear-gradient(to left, #0b4047, #08c1da, #e78734, #08c1da, #0b4047); color: #ffffff; }
+.btn-special:focus      { border-top: 1px solid #08c1da; border-bottom: 1px solid #08c1da; }
+.btn-special:active     { background: linear-gradient(to left, #0b4047, #08c1da, #e4ff5f, #08c1da, #0b4047); color: #ffffff; }
 
 /* Character Icons */
 .char-icon {

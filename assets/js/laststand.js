@@ -48,16 +48,16 @@ currentRecords['99th'] = [
 ];
 currentRecords['chuo'] = [
     {
+        char: { id: `nt3k`, name: `NT-3000` },
+        name: `YandereKxng`,
+        wave: 44,
+        date: `August 12, 2022`
+    },
+    {
         char: { id: `clutch`, name: `Clutch` },
         name: `Latelaturi`,
         wave: 36,
         date: `July 28, 2022`
-    },
-    {
-        char: { id: `nt3k`, name: `NT-3000` },
-        name: `YandereKxng`,
-        wave: 25,
-        date: `May 27, 2022`
     },
 ];
 currentRecords['shinjuku'] = [
