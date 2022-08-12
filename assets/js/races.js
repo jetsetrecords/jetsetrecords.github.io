@@ -81,6 +81,12 @@ currentRecords[`chuo`] = [
         time: `03:54:586`,
         date: `May 20, 2022`
     },
+    {
+        char: { id: `loveshocker`, name: `Love Shocker` },
+        name: `Buggy`,
+        time: `03:57:478`,
+        date: `May 15, 2022`
+    }
 ];
 currentRecords[`dogenzaka`] = [
     {
@@ -100,7 +106,7 @@ currentRecords[`dogenzaka`] = [
         name: `TacoLover`,
         time: `03:28:985`,
         date: `October 4, 2021`
-    },
+    },  
 ];
 currentRecords[`kibogaoka`] = [
     {
@@ -120,6 +126,12 @@ currentRecords[`kibogaoka`] = [
         name: `Buggy`,
         time: `04:16:626`,
         date: `June 7, 2022`
+    },
+    {
+        char: { id: `jacket`, name: `Jacket` },
+        name: `Sharkbite`,
+        time: `04:20:410`,
+        date: `March 29, 2022`
     },
 ];
 
