@@ -8,16 +8,16 @@ currentRecords[`shibuya`] = [
         date: `May 24, 2022`
     },
     {
+        char: { id: `coin`, name: `Coin` },
+        name: `Latelaturi`,
+        wave: 57,
+        date: `August 16, 2022`
+    },
+    {
         char: { id: `unknown`, name: `Unknown` },
         name: `Chanel Oberlin`,
         wave: 53,
         date: `Unknown`
-    },
-    {
-        char: { id: `jazz`, name: `Jazz` },
-        name: `Latelaturi`,
-        wave: 53,
-        date: `July 24, 2022`
     },
     {
         char: { id: `nt3k`, name: `NT-3000` },
@@ -34,16 +34,16 @@ currentRecords['99th'] = [
         date: `June 30, 2022`
     },
     {
+        char: { id: `nt3k`, name: `NT-3000`},
+        name: `Latelaturi`,
+        wave: 50,
+        date: `August 16, 2022`
+    },
+    {
         char: { id: `pots`, name: `Pots` },
         name: `Veloci`,
         wave: 42,
         date: `June 7, 2022`
-    },
-    {
-        char: { id: `clutch`, name: `Clutch` },
-        name: `Latelaturi`,
-        wave: 33,
-        date: `July 6, 2022`
     },
 ];
 currentRecords['chuo'] = [
