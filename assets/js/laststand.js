@@ -22,8 +22,8 @@ currentRecords[`shibuya`] = [
     {
         char: { id: `nt3k`, name: `NT-3000` },
         name: `YandereKxng`,
-        wave: 22,
-        date: `June 11, 2022`
+        wave: 28,
+        date: `August 17, 2022`
     },
 ];
 currentRecords['99th'] = [
