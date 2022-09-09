@@ -30,10 +30,10 @@ currentRecords[`second`] = [
 ];
 currentRecords[`stadium`] = [
     {
-        char: { id: `immortal`, name: `Immortal` },
+        char: { id: `jacket`, name: `Jacket` },
         name: `Latelaturi`,
-        time: `02:18:936`,
-        date: `June 6, 2022`
+        time: `02:18:908`,
+        date: `September 5, 2022`
     },
     {
         char: { id: `jacket`, name: `Jacket` },
@@ -73,12 +73,12 @@ currentRecords[`chuo`] = [
         char: { id: `goldenrhino`, name: `Golden Rhino` },
         name: `Veloci`,
         time: `03:52:531`,
-        date: `May 20, 2022`
+        date: `September 5, 2022`
     },
     {
         char: { id: `jacket`, name: `Jacket` },
         name: `Latelaturi`,
-        time: `03:53:975`,
+        time: `03:53:419`,
         date: `May 21, 2022`
     },
     {
